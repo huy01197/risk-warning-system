@@ -10,7 +10,7 @@ Công cụ định lượng phát hiện sớm nguy cơ kiệt quệ tài chính
 
 ## 1. Ma Trận Rủi Ro Bốn Góc Phần Tư
 
-![Ma Trận Rủi Ro](BaoCao_RuiRo_HNX_2025/MaTran_RuiRo_HNX_2025.png)
+![Ma Trận Rủi Ro](BaoCao_RuiRo_HSX_2025/MaTran_RuiRo_HSX_2025.png)
 
 ### Khung Phân Loại
 
@@ -27,22 +27,22 @@ Công cụ định lượng phát hiện sớm nguy cơ kiệt quệ tài chính
 
 Đồ thị trục kép (Dual-axis) phản ánh quá trình suy giảm khả năng thanh toán ($Z \downarrow$) song hành cùng rủi ro thao túng số liệu gia tăng ($M \uparrow$):
 
-| Doanh nghiệp HLD (HNX) | Doanh nghiệp AAV (HNX) |
+| Doanh nghiệp AGM (HSX) | Doanh nghiệp TNH (HSX) |
 | :---: | :---: |
-| ![Trendline HLD](BaoCao_RuiRo_HNX_2025/Trendline_SuyThoai_HLD.png) | ![Trendline AAV](BaoCao_RuiRo_HNX_2025/Trendline_SuyThoai_AAV.png) |
+| ![Trendline AGM](BaoCao_RuiRo_HSX_2025/Trendline_SuyThoai_AGM.png) | ![Trendline TNH](BaoCao_RuiRo_HSX_2025/Trendline_SuyThoai_TNH.png) |
 
 ---
 
-## 3. Thống Kê Phân Bố Rủi Ro (Toàn sàn HNX - Năm 2025)
+## 3. Thống Kê Phân Bố Rủi Ro (Toàn sàn HSX - Năm 2025)
 
 | Chỉ tiêu phân loại | Ngưỡng lý thuyết | Số lượng DN | Tỷ trọng (%) |
 | :--- | :--- | :---: | :---: |
-| **Z-Score: Vùng an toàn** | $Z > 2.99$ | 139 | 45.7% |
-| **Z-Score: Vùng xám** | $1.81 \le Z \le 2.99$ | 76 | 25.0% |
-| **Z-Score: Vùng nguy hiểm** | $Z < 1.81$ | 89 | 29.3% |
-| **M-Score: Ít khả năng thao túng** | $M \le -1.78$ | 260 | 85.5% |
-| **M-Score: Nguy cơ thao túng cao** | $M > -1.78$ | 44 | 14.5% |
-| **Tổng hợp: Khủng hoảng kép** | $Z < 1.81 \land M \ge -1.78$ | 16 | 5.3% |
+| **Z-Score: Vùng an toàn** | $Z > 2.99$ | 129 | 33.5% |
+| **Z-Score: Vùng xám** | $1.81 \le Z \le 2.99$ | 91 | 23.6% |
+| **Z-Score: Vùng nguy hiểm** | $Z < 1.81$ | 165 | 42.9% |
+| **M-Score: Ít khả năng thao túng** | $M \le -1.78$ | 346 | 89.9% |
+| **M-Score: Nguy cơ thao túng cao** | $M > -1.78$ | 39 | 10.1% |
+| **Tổng hợp: Khủng hoảng kép** | $Z < 1.81 \land M \ge -1.78$ | 15 | 3.9% |
 
 ---
 
