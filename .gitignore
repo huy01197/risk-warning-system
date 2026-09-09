@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Security & Private Documents
+.env
+.env.*
+*.key
+*.token
+*.pem
+AGENTS.md
+Hethongnhandienruiro_DNNY.pdf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Environments
+.vscode/
+.idea/
+*.swp
+*.swo
+.venv/
+env/
+venv/
